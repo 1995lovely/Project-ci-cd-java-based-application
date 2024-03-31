@@ -6,7 +6,7 @@ at the root directory of the repository.
 This is a MVC architecture based application where controller returns a page with title and message attributes to the view.
 
 ## Execute the application locally and access it using your browser
-https://github.com/1995lovely/cicdpipline.git
+https://github.com/1995lovely/Project-ci-cd-java-based-application
 Checkout the repo and move to the directory
 
 ```
